@@ -33,7 +33,8 @@ public class HelloWorldExample extends HttpServlet {
         out.println("<body bgcolor=\"white\">");
         out.println("<h1>" + title + "</h1>");
         
-        //out.println("<h2>" + title + "</h2>");
+        out.println("<h2>" + title + "</h2>");
+        out.println("<h2>" + title + "</h2>");
         out.println("<h3>" + title + "</h3>");
 
 
